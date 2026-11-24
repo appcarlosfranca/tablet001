@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MED X • Contagem Internato</string>
+    <string name="widget_description">Contagem regressiva automática até o fim do internato</string>
+</resources>
